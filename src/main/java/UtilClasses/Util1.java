@@ -73,27 +73,5 @@ public class Util1 {
 			return path;
 			
 		}
-		
-
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		public static void moveandclick() {
-			
-			
-			
-			
-		}
 
 }
